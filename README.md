@@ -1,7 +1,6 @@
-# Time-Series-R
+# Analysis and forecasting time series with R
 
-Materials for the course on time series using R.
-
+Materiales sobre el uso de R en el análisis y predicción de series de tiempo.
 
 
 ## Bibliography:
